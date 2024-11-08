@@ -1,0 +1,30 @@
+/*---------   Login.jsx CSS     ---------*/
+.login-form-border{
+  border-radius: 10px;
+  box-shadow: 0 0 2px #dad9d9dc;
+  background-color: #faf9f9;
+}
+
+.custom-table-header th{
+  background-color:  rgb(0 92 92 / 51%) !important;
+  font-weight: bold;        
+  color: #fff !important; 
+  text-transform: uppercase;
+}
+
+.background{
+  background-color: rgb(0 92 92 / 51%) !important;
+}
+
+.modal-custom .modal-content{
+  border: 0px !important;
+}
+
+.table-heading{
+  color : rgb(0 92 92 / 51%);
+}
+
+.btn-primary {
+  background-color: rgb(0 92 92 / 51%) !important;
+  border : none !important;
+}
